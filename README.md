@@ -1,3 +1,4 @@
 # SpringBot_java
 Hacer el hola mundo del tutorial de spring boot de java y agregar un parametro mas con un mensaje.
-![image](https://user-images.githubusercontent.com/90990023/234740628-d6e6ee15-b86f-4571-85d9-56657140a90e.png)
+
+![image](https://user-images.githubusercontent.com/90990023/234740748-c9910fe0-99e9-4f16-abd2-f3096ecd54f1.png)
